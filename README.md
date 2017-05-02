@@ -31,3 +31,4 @@ Senha - ioasys123
 
 * Para requisição sugerimos usar a biblioteca Retrofit
 * Para download e cache de imagens use a biblioteca Glide
+* Para parse de Json use a biblioteca GSON
