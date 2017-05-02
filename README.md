@@ -4,7 +4,7 @@ Estes documento README tem como objetivo fornecer as informações necessárias 
 
 ### O QUE FAZER ? ###
 
-* Você deve fazer o chekcout deste repositório, criar o código e ao finalizar realizar o commit e solicitar um pull request, nós iremos avaliar e retornar por email o resultado do seu teste.
+* Você deve fazer o checkout deste repositório, criar o código e ao finalizar realizar o commit e solicitar um pull request, nós iremos avaliar e retornar por email o resultado do seu teste.
 
 ### ESCOPO DO PROJETO ###
 
