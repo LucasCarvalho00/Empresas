@@ -26,3 +26,8 @@ Senha - ioasys123
 * Servidor: http://54.94.145.25:8090
 * Usuário de Teste: testeapple@ioasys.com.br
 * Senha de Teste : 12341234
+
+### Dicas ###
+
+* Para requisição sugerimos usar a biblioteca Retrofit
+* Para download e cache de imagens use a biblioteca Glide
