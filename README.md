@@ -22,6 +22,7 @@ Senha - ioasys123
 
 * Integração disponível a partir de uma collection para Postman (https://www.getpostman.com/apps) disponível neste repositório.
 
+* Independente de onde conseguiu chegar no teste é importante disponibilizar seu fonte para analisarmos.
 
 ### Dados para Teste ###
 
