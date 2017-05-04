@@ -26,6 +26,7 @@ Senha - ioasys123
 ### Dados para Teste ###
 
 * Servidor: http://54.94.145.25:8090
+* Versão da API: v1
 * Usuário de Teste: testeapple@ioasys.com.br
 * Senha de Teste : 12341234
 
