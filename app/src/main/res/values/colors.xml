@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ee4c77</color>ee4c77
+    <color name="colorPrimaryDark">#ba3b5d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroudTela">#ebe9d7</color>
+    <color name="cinzaCarvao">#383743</color>
+    <color name="verdeAgua">#57bbbc</color>
+    <color name="brancoPuro">#ffffff</color>
+    <color name="azulEscuro">#1a0e49</color>
+    <color name="cinzaClaro">#8d8c8c</color>
+    <color name="backgroudEmpresa">#7dc075</color>
+    
+</resources>

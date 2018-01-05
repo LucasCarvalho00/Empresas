@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="95dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"
+    android:background="@color/brancoPuro"
+    android:paddingBottom="10dp">
+
+
+    <ImageView
+        android:id="@+id/imgListEmpEmpresas"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/img_listaempresas"
+        tools:ignore="VectorDrawableCompat" />
+
+    <TextView
+        android:id="@+id/txvListEmpEmpresa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgListEmpEmpresas"
+        android:layout_marginLeft="10dp"
+        android:layout_toEndOf="@+id/imgListEmpEmpresas"
+        android:layout_toRightOf="@+id/imgListEmpEmpresas"
+        android:fontFamily="sans-serif"
+        android:text="TextView"
+        android:textColor="@color/azulEscuro"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txvListEmpRamo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txvListEmpEmpresa"
+        android:layout_alignStart="@+id/txvListEmpEmpresa"
+        android:layout_below="@+id/txvListEmpEmpresa"
+        android:layout_marginTop="5dp"
+        android:fontFamily="sans-serif"
+        android:text="TextView"
+        android:textColor="@color/cinzaClaro"
+        android:textSize="17sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/txvListEmpPais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txvListEmpRamo"
+        android:layout_alignStart="@+id/txvListEmpRamo"
+        android:layout_below="@+id/txvListEmpRamo"
+        android:fontFamily="sans-serif"
+        android:text="TextView"
+        android:textColor="@color/cinzaClaro"
+        android:textSize="17sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/txvListEmpTexto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imgListEmpEmpresas"
+        android:layout_alignStart="@+id/imgListEmpEmpresas"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        android:fontFamily="sans-serif"
+        android:text="E1"
+        android:textColor="@color/brancoPuro"
+        android:textSize="38.5sp"
+        android:textStyle="bold" />
+</RelativeLayout>

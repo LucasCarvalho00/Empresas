@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Empresas</string>
+
+    <!-- Strings utilizadas na Main Activity-->
+    <string name="bemvindo">BEM-VINDO AO EMPRESAS</string>
+    <string name="descricaoapp">Lorem ipsum dolor sit amet, contetur adipiscing elit. Nunc accumsan.</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">ENTRAR</string>
+
+
+    <!-- Strings utilizadasHomeActivityHome-->
+    <string name="descricaotela">Clique na busca para iniciar.</string>
+    <string name="pesquisar">Pesquisar</string>
+
+    <!-- Strings de Erros -->
+    <string name="msgemailvazio">Por favor, preencha o email</string>
+    <string name="msgsenhavazia">Por favor, preencha a senha</string>
+    <string name="msgemailincorreto">Email inválido</string>
+    <string name="msgsenhaincorreta">Senha inválida</string>
+    <string name="msgconexao">Por favor, Verifique sua conexão com a internet</string>
+    <string name="msgusuario">Usuário não encontrado</string>
+
+</resources>
